@@ -8,8 +8,8 @@ The folders labeled "Deliverable" feature all our reports and presentations.
 "Base Project" features Jupyter Notebooks involving our broad-scope analysis of Boston's budget.
 "Extension" features a finer look into different aspects of Boston's budget allocation related to age demographics. Highlights here:
 
-![1](https://github.com/lneishloss/ds-boston-city-budget/edit/main/fa23-team-d/Selected%20Figures/Capital_Budget_Allocation_Neighborhoods.png)
+![1](https://github.com/lneishloss/ds-boston-city-budget/blob/main/fa23-team-d/Selected%20Figures/Capital_Budget_Allocation_Neighborhoods.png)
 
-![2](https://github.com/lneishloss/ds-boston-city-budget/edit/main/fa23-team-d/fa23-team-d/Selected%20Figures/Median_Age_Neighborhoods.png)
+![2](https://github.com/lneishloss/ds-boston-city-budget/blob/main/fa23-team-d/Selected%20Figures/Median_Age_Neighborhoods.png)
 
 Please refer any questions to any team member in "team-info-page.txt"
